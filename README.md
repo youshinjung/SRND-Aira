@@ -7,7 +7,7 @@ SRnD 연구비 업무 자동화를 기능별로 새로 구현하기 위한 최�
 ## 가장 먼저 읽을 문서
 
 1. `AGENTS.md` — 코딩 에이전트 필수 지침
-2. `docs/FEATURES.md` — 구현 대상 15개 기능 정본
+2. `docs/FEATURES.md` — 구현 대상 17개 기능 정본
 3. `docs/WORKFLOW.md` — 조사·기록·테스트·완성 순서
 4. `docs/SECURITY.md` — 개인정보 및 최종 처리 안전 규칙
 
@@ -27,7 +27,7 @@ SRND-Aira/
 │  ├─ record.md
 │  └─ sample.json
 └─ src/features/
-   └─ 01-... ~ 15-.../STATUS.md
+   └─ 01-... ~ 17-.../STATUS.md
 ```
 
 새 기능을 시작할 때 `templates/feature/`의 네 파일을 해당 기능 폴더로 복사합니다. 템플릿 원본은 수정하지 않습니다.
