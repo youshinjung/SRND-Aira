@@ -1,0 +1,39 @@
+# Dependencies and local configuration
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+.work/
+tmp/
+temp/
+
+# Browser sessions and exploration output
+.srnd-browser-profile/
+browser-profile/
+explore-output/
+snapshot-output/
+screenshots/
+traces/
+test-results/
+playwright-report/
+
+# Private and live input data
+private-input/
+private-data/
+test-data/
+snapshot-input-data.txt
+*real-data*.json
+*.real.json
+*-real.json
+*-extracted.json
+*-test.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
