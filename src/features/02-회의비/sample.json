@@ -1,0 +1,22 @@
+{
+  "feature": "02-회의비",
+  "meeting": {
+    "date": "2026-08-14",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "location": "가상 연구동 회의실",
+    "purpose": "가상 연구 결과 검토",
+    "content": "가상 결과를 검토하고 후속 일정에 합의함"
+  },
+  "attendees": {
+    "projectParticipants": ["가상연구원"],
+    "internalNonProjectParticipants": ["가상참석자"],
+    "declaredCount": 2
+  },
+  "payment": {
+    "foodAndBeverageAmount": 60000,
+    "attendeeCount": 2,
+    "perPersonAmount": 30000
+  },
+  "attachmentPath": "C:\\evidence\\sample-meeting-receipt.pdf"
+}
