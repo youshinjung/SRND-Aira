@@ -1,0 +1,20 @@
+{
+  "feature": "03-전문가활용비",
+  "expertUse": {
+    "paymentType": "자문료",
+    "startDate": "2026-08-27",
+    "endDate": "2026-08-27",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "modality": "대면",
+    "title": "가상 전문가 자문 지급신청",
+    "location": "가상 연구동 회의실",
+    "purpose": "가상 연구 결과와 후속 분석 방향에 대한 전문가 자문",
+    "unitCount": 2,
+    "unit": "시간",
+    "activityAmount": 300000,
+    "variant": {
+      "rateCategory": "연구책임자급"
+    }
+  }
+}
